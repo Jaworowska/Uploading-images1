@@ -499,8 +499,8 @@ meter::-webkit-meter-even-less-good-value {
 }
 
 #uploadArea.ready {
-    border-color: #4CAF50;
-    background-color: #f1f8f4;
+    border-color: #af4c81;
+    background-color: #be11ea;
 }
 
 #uploadArea:hover {
